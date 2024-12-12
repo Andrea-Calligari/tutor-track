@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Mario Rossi",
+    "subject": "Mathematics",
+    "short_description": "Expert in algebra and geometry.",
+    "availability": {
+      "days": ["Monday", "Wednesday", "Friday"],
+      "hours": ["14:00-16:00", "17:00-20:00"]
+    },
+    "price_per_lesson": 20,
+    "reviews": [
+      {"user": "Giulia Bianchi", "comment": "Great teacher!", "rating": 5},
+      {"user": "Luca Verdi", "comment": "Very clear explanations.", "rating": 4}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Anna Neri",
+    "subject": "Foreign Language",
+    "short_description": "Specialized in English and French.",
+    "availability": {
+      "days": ["Tuesday", "Thursday"],
+      "hours": ["10:00-12:00", "14:00-16:00"]
+    },
+    "price_per_lesson": 25,
+    "reviews": [
+      {"user": "Marco Gialli", "comment": "Very interesting lessons.", "rating": 5},
+      {"user": "Sara Blu", "comment": "Very patient and prepared.", "rating": 4}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Luca Bianchi",
+    "subject": "Music",
+    "short_description": "Teacher of piano and guitar.",
+    "availability": {
+      "days": ["Monday", "Wednesday"],
+      "hours": ["09:00-11:00", "15:00-17:00"]
+    },
+    "price_per_lesson": 30,
+    "reviews": [
+      {"user": "Elena Rossi", "comment": "Very good with children.", "rating": 5},
+      {"user": "Paolo Neri", "comment": "Fun and instructive lessons.", "rating": 4}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Giovanni Verdi",
+    "subject": "Science",
+    "short_description": "Specialist in physics and chemistry.",
+    "availability": {
+      "days": ["Monday", "Thursday"],
+      "hours": ["10:00-12:00", "14:00-16:00"]
+    },
+    "price_per_lesson": 22,
+    "reviews": [
+      {"user": "Laura Neri", "comment": "Very knowledgeable.", "rating": 5},
+      {"user": "Marta Blu", "comment": "Engaging lessons.", "rating": 4}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Elena Gialli",
+    "subject": "History",
+    "short_description": "Expert in ancient and modern history.",
+    "availability": {
+      "days": ["Wednesday", "Friday"],
+      "hours": ["11:00-13:00", "15:00-17:00"]
+    },
+    "price_per_lesson": 18,
+    "reviews": [
+      {"user": "Francesco Rossi", "comment": "Very detailed explanations.", "rating": 5},
+      {"user": "Gianni Verdi", "comment": "Makes history interesting.", "rating": 4}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Paola Blu",
+    "subject": "Art",
+    "short_description": "Specialist in painting and sculpture.",
+    "availability": {
+      "days": ["Tuesday", "Thursday"],
+      "hours": ["09:00-11:00", "13:00-15:00"]
+    },
+    "price_per_lesson": 28,
+    "reviews": [
+      {"user": "Alessandro Neri", "comment": "Very creative.", "rating": 5},
+      {"user": "Sofia Gialli", "comment": "Inspires creativity.", "rating": 4}
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Marco Neri",
+    "subject": "Computer Science",
+    "short_description": "Expert in programming and algorithms.",
+    "availability": {
+      "days": ["Monday", "Wednesday"],
+      "hours": ["10:00-12:00", "14:00-16:00"]
+    },
+    "price_per_lesson": 35,
+    "reviews": [
+      {"user": "Giovanni Blu", "comment": "Very knowledgeable.", "rating": 5},
+      {"user": "Chiara Rossi", "comment": "Clear and concise.", "rating": 4}
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sara Verdi",
+    "subject": "Physical Education",
+    "short_description": "Specialist in fitness and wellness.",
+    "availability": {
+      "days": ["Tuesday", "Friday"],
+      "hours": ["08:00-10:00", "12:00-14:00"]
+    },
+    "price_per_lesson": 20,
+    "reviews": [
+      {"user": "Luca Neri", "comment": "Very motivating.", "rating": 5},
+      {"user": "Elena Blu", "comment": "Great workouts.", "rating": 4}
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Francesca Gialli",
+    "subject": "Biology",
+    "short_description": "Expert in cellular and molecular biology.",
+    "availability": {
+      "days": ["Wednesday", "Thursday"],
+      "hours": ["11:00-13:00", "15:00-17:00"]
+    },
+    "price_per_lesson": 27,
+    "reviews": [
+      {"user": "Paolo Rossi", "comment": "Very detailed.", "rating": 5},
+      {"user": "Giulia Verdi", "comment": "Makes biology fun.", "rating": 4}
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Alessandro Blu",
+    "subject": "Philosophy",
+    "short_description": "Specialist in ancient and modern philosophy.",
+    "availability": {
+      "days": ["Monday", "Thursday"],
+      "hours": ["10:00-12:00", "14:00-16:00"]
+    },
+    "price_per_lesson": 25,
+    "reviews": [
+      {"user": "Marta Neri", "comment": "Very insightful.", "rating": 5},
+      {"user": "Marco Gialli", "comment": "Thought-provoking lessons.", "rating": 4}
+    ]
+  }
+]
